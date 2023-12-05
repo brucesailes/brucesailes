@@ -1,4 +1,3 @@
-![Black-kid](https://github.com/brucesailes/brucesailes/assets/110871245/9a4fd594-44f5-4bee-9203-b11ab55495ba)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bruce Sailes 
 ====================================================================================================================================
 

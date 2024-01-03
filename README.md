@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bruce Sailes 
 ====================================================================================================================================
 
-Father | Developer | Architect
+Father | Web Developer | Software Architect
 ------------------------------
 
 I've dedicated four years to mastering the art of coding, pouring in my passion, hard work, and determination. Every project I've undertaken has been a product of relentless dedication, marked by the sweat, tears, and sheer determination I've invested in them. My fascination with technology knows no bounds, and I find immense satisfaction in harnessing its power to solve real-world challenges.
